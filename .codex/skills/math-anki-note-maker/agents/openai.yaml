@@ -1,0 +1,4 @@
+interface:
+  display_name: "Math Anki Note Maker"
+  short_description: "教科書画像から大学数学Ankiノートを作成する"
+  default_prompt: "Use $math-anki-note-maker to turn this textbook image into reviewed Anki notes for my university math deck."
