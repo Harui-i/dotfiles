@@ -36,6 +36,7 @@ alias egrep='grep -E --color=auto'
 alias ll='ls -alhF'
 alias la='ls -A'
 alias l='ls -CF'
+alias llmjp418p='llama cli -hf llm-jp/llm-jp-4.1-8b-thinking-gguf:Q4_K_M -p'
 alias cmpcpp='g++ -std=gnu++2b -Wall -Wextra -Wshadow -fsanitize=address,undefined -I ~/CompetitiveProgramming/library/ -I ~/CompetitiveProgramming/ac-library -DLOCAL -g'
 
 # lessで圧縮ファイルなどを開けるようにする
